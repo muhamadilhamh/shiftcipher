@@ -1,4 +1,4 @@
-# PERTEMUAN 2
+# PERTEMUAN #2
 
 1. Nama = Muhamad Ilham Habib
 2. NPM = 140810180018
